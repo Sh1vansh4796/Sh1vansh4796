@@ -46,9 +46,7 @@
 
 [🔍 View Detailed Analysis](https://profile-summary-for-github.com/user/Sh1vansh4796)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sh1vansh4796&theme=darkhub)](https://github.com/Sh1vansh4796/github-profile-trophy)act"
-        style="max-width: 100%;">
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sh1vansh4796&theme=darkhub)](https://github.com/Sh1vansh4796/github-profile-trophy)
 
 [🔍 View Detailed Analysis](https://profile-summary-for-github.com/user/Sh1vansh4796)
 
