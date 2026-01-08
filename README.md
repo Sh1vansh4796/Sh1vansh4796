@@ -68,32 +68,16 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-<h3>Connect with me on:</h3>
+<div class="markdown-heading" dir="auto"><h3 class="heading-element" dir="auto">Connect with me on:</h3></div>
 
-<p>
-<a href="https://www.linkedin.com/in/shivansh-gilhotra/" rel="nofollow">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:shivanshgilhotra@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?&style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=black">
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-gilhotra-6b0589250//)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivansh4796@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ThunderB0lt20//)
 
 ## 🔥 Github Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1vansh4796&theme=dark&hide_border=false">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sh1vansh4796&theme=dark&hide_border=false" alt="Shivansh's GitHub Streak">
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh1vansh4796&bg_color=0d1117&color=ffffff&line=68b5fc&point=ffffff&area=true&hide_border=true">
-</p>
-
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh1vansh4796&bg_color=0d1117&color=ffffff&line=68b5fc&point=ffffff&area=true&hide_border=true">
